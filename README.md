@@ -1,7 +1,9 @@
 # esx-legacy-1.7.5
 Copy of the official ESX Legacy repository converted to QS.
-Original repository: https://github.com/esx-framework/
-Inventory purchase: https://www.quasar-store.com/
+# Original repository 
+https://github.com/esx-framework/
+# Inventory purchase 
+https://www.quasar-store.com/
 
 # Instalation.
 This package brings the important modifications to make it work with qs-inventory, but it will not bring the original package, you can buy it in the link that you will see above.
